@@ -1,18 +1,20 @@
 
 <h1>pgb-viewer-test</h1>
 
-<p>This is a page for playing around with embedding windows to Google Docs in a Gh page using an i-frame. I'm trying it now with an IO page which seems to be required.</p>
-<p>Now I am editing the file in docs folder which seems to be the place that's being published. </p>
-<p>Well, so far, the page doesn't seem to be updating. I am changing to a different spread sheet though that i can share with anyone. </p>
-
-<p>Let's also see if I can <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTStJlK9iHyZth7LGiM5fpyZUS8plJKTXQzySA4Bz3bmcopurWQxtZwNSNCTVX_UGP_vooiyh4Pq-sb/pubhtml">link</a> to the file.</p>
-
-<p>OK. Changing to width=100% spreads the window across the full screen. Still not seeing the iframe itself though. Oh wait! Copy the iframe link from the GD itself.</p>
+<p>This is a page for playing around with embedding windows to Google Docs in a Gh page using an i-frame. The page is displaying using the .io page. I'm not sure yet 
+  how to incorporate this into our practical display of the PGB file. </p>
+<p>Here is what I have learned so far. </p>
+<ul>
+  <li>For the Google doc to properly display on Github, sharing must be set so that anyone with the link can see the file.</li>
+  <li>It must also be set to share to the web using File/Share/Publish to web/Embed. An iframe tag will be created for you to use.</li>
+  <li>I will play around more with the frame controls, but adding width="100%" and height="600" to the iframe gives a window that runs the full width of 
+    the screen
+  <li>Also set the embed doc to automatically republish if the data changes.</li>
+  <li>You can set up the Google sheet to just show one page or the whole workbook.</li>
+  <li>It takes a few minutes for the changes to ripple through.</li>
+</ul>
+<p>All in all, I think we can make this work. </p>
+<p>I couldn't publish the PGB list Google sheet to the web, so here is a different one I used for the experiment.</p>  
 <p>New iframe link below <br/>
   <iframe width="100%" height="300" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTStJlK9iHyZth7LGiM5fpyZUS8plJKTXQzySA4Bz3bmcopurWQxtZwNSNCTVX_UGP_vooiyh4Pq-sb/pubhtml?widget=true&amp;headers=false"></iframe>
 </p>
-<p>The one i was using... 
-<iframe id="inline-test" title="inpage pgb display test" width="100%" scr="https://docs.google.com/spreadsheets/d/e/2PACX-1vTStJlK9iHyZth7LGiM5fpyZUS8plJKTXQzySA4Bz3bmcopurWQxtZwNSNCTVX_UGP_vooiyh4Pq-sb/pubhtml"></iframe>
-  </p>
-  
-<p>Sure is easy to paste in the html code.</p>
