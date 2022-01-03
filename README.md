@@ -7,7 +7,10 @@
   <p>the plugin</p>
   <p>Or, using i-frame. </p>
 <p>
-<iframe src="https://docs.google.com/spreadsheets/d/1dGzWAnwtO8s455K4vArdIrfEh1bxsbl5BD937WUHSjs/edit#gid=463834327?gid=1580406200&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe id="inline-test"
+  title="inpage pgb display test"
+  width="600"
+  scr="https://docs.google.com/spreadsheets/d/1dGzWAnwtO8s455K4vArdIrfEh1bxsbl5BD937WUHSjs/edit#gid=463834327"></iframe>
   </p>
   
 <p>Sure is easy to paste in the html code.</p>
