@@ -1,4 +1,4 @@
-<img src="OCA4.png" width="200">
+<img src="eea.png" width="200">
 
 # Open Cybersecurity Alliance (OCA) Project Governing Board
 
