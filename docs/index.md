@@ -1,7 +1,7 @@
-<img src="eea.png" width="200">
+<!-- img src="eea.png" width="200" -->
 
 # EEA Community Projects Governing Board (PGB)
-
+Without graphic
 The Project Governing Board sets overall strategic direction for the EEA Community Projects and formally approves released work products.
 
 PGB members include representatives of [EEA Community Projects sponsor organizations]() and representatives from the community at-large who serve on the Technical Steering Committee:
