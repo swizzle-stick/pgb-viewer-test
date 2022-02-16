@@ -9,8 +9,13 @@
 <p><i>PGB Chairs</i>: Daniel Burnett, Tas Dienes</p> 
 
 <p>PGB members:</p> 
+<p>testing changes to iframe tag</p>
 
-<p><iframe style="border-style: none;" width="700" height="400" src="http://docs.google.com/spreadsheets/d/1dGzWAnwtO8s455K4vArdIrfEh1bxsbl5BD937WUHSjs/edit#gid=463834327"&widget=false&headers=false&chrome=false&single=false&gridlines=false&range=A1%3AC10></iframe>
+<p><iframe src="http://docs.google.com/spreadsheets/d/1dGzWAnwtO8s455K4vArdIrfEh1bxsbl5BD937WUHSjs/edit#gid=463834327"></iframe>
 </p>
+
+<p><iframe style="border-style: none; width="700" height="400" src="http://docs.google.com/spreadsheets/d/1dGzWAnwtO8s455K4vArdIrfEh1bxsbl5BD937WUHSjs/edit#gid=463834327"&widget=false&headers=false&chrome=false&single=false&gridlines=false&range=A1%3AC10></iframe>
+</p>
+  
 
 <p>For information on joining sponsoring these projects or joining the governing board, please contact [communications@oasis-open.org](mailto:communications@oasis-open.org).</p>
