@@ -1,6 +1,6 @@
 <img src="eea.png" width="200">
 
-2/16 - 1:32 - Adding style attributes
+2/16 - 1:36 - Editing style attributes
 
 <h1>EEA Community Projects Governing Board (PGB)</H1>
 
@@ -13,7 +13,7 @@
 <p>PGB members:</p> 
 <p>testing changes to iframe tag</p>
 
-<p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT38MUZFWO1ISzQWC6wSulN7IJCmYdSOIxBiofgO4c8mRF0hOuLEO59bW6McK2Lm0DgJkpaPLAf38AI/pubhtml?gid=463834327&amp;single=true&amp;widget=true&amp;headers=false" style="border-style: none; width="700" height="400"></iframe>
+<p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT38MUZFWO1ISzQWC6wSulN7IJCmYdSOIxBiofgO4c8mRF0hOuLEO59bW6McK2Lm0DgJkpaPLAf38AI/pubhtml?gid=463834327&amp;single=true&amp;widget=true&amp;headers=false" style="border-style: none; width: 700; height: 400"></iframe>
 </p>
 
 <p><iframe style="border-style: none; width="700" height="400" src="http://docs.google.com/spreadsheets/d/1dGzWAnwtO8s455K4vArdIrfEh1bxsbl5BD937WUHSjs/edit#gid=463834327"&widget=false&headers=false&chrome=false&single=false&gridlines=false&range=A1%3AC10></iframe>
